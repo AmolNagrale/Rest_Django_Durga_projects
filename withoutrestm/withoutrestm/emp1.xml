@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="testapp.employee" pk="1">
+        <field name="eno" type="IntegerField">100</field>
+        <field name="ename" type="CharField">sunny</field>
+        <field name="esal" type="FloatField">1000.0</field>
+        <field name="eaddr" type="CharField">mumbai</field>
+    </object>
+    <object model="testapp.employee" pk="2">
+        <field name="eno" type="IntegerField">200</field>
+        <field name="ename" type="CharField">banny</field>
+        <field name="esal" type="FloatField">2000.0</field>
+        <field name="eaddr" type="CharField">hyd</field>
+    </object>
+    <object model="testapp.employee" pk="3">
+        <field name="eno" type="IntegerField">300</field>
+        <field name="ename" type="CharField">vinny</field>
+        <field name="esal" type="FloatField">3000.0</field>
+        <field name="eaddr" type="CharField">banglore</field>
+    </object>
+    <object model="testapp.employee" pk="4">
+        <field name="eno" type="IntegerField">400</field>
+        <field name="ename" type="CharField">chinny</field>
+        <field name="esal" type="FloatField">4000.0</field>
+        <field name="eaddr" type="CharField">kolkata</field>
+    </object>
+    <object model="testapp.employee" pk="5">
+        <field name="eno" type="IntegerField">500</field>
+        <field name="ename" type="CharField">Shiva</field>
+        <field name="esal" type="FloatField">5000.0</field>
+        <field name="eaddr" type="CharField">Chennai</field>
+    </object>
+    <object model="testapp.employee" pk="6">
+        <field name="eno" type="IntegerField">500</field>
+        <field name="ename" type="CharField">Shiva</field>
+        <field name="esal" type="FloatField">5000.0</field>
+        <field name="eaddr" type="CharField">Chennai</field>
+    </object>
+    <object model="testapp.employee" pk="7">
+        <field name="eno" type="IntegerField">500</field>
+        <field name="ename" type="CharField">Shiva</field>
+        <field name="esal" type="FloatField">5000.0</field>
+        <field name="eaddr" type="CharField">Chennai</field>
+    </object>
+    <object model="testapp.employee" pk="8">
+        <field name="eno" type="IntegerField">600</field>
+        <field name="ename" type="CharField">Mallika</field>
+        <field name="esal" type="FloatField">6000.0</field>
+        <field name="eaddr" type="CharField">Mumbai</field>
+    </object>
+    <object model="testapp.employee" pk="9">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="10">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="11">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="12">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="13">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="14">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="15">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="16">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="17">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="18">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="19">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="20">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="21">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="22">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="23">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="24">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="25">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="26">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="27">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="28">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="29">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+    <object model="testapp.employee" pk="30">
+        <field name="eno" type="IntegerField">800</field>
+        <field name="ename" type="CharField">Amrit</field>
+        <field name="esal" type="FloatField">8000.0</field>
+        <field name="eaddr" type="CharField">pune</field>
+    </object>
+</django-objects>
